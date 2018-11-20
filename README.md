@@ -3,6 +3,8 @@ Factions - 1.8.2 - for paperMC 1.13.2
 
 A fork of https://github.com/DRE2N/FactionsOne
 
+(note that code changes still have to be committed)
+
 ====================
 
 
